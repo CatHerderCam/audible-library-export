@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>The Complete Series in a single offering!</b></p> <p>As a primal conjurer, Ryn Xaven is a rare sorcerer who can use all types of magic. When he bonds beautiful mages as his protectors and companions, his power grows. Together they'll root out devils, protect their world from demonic invasion, and keep each other warm on cold nights.</p>"; 
