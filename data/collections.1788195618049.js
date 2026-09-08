@@ -1,1 +1,0 @@
-window.collectionsJSON = [{"books":["B0HBCVNYBC","B0H5L6GG3Q","B0GLT6CK5Z","B0H9M6MSJ1","B0GMKJLY3X","B0GXX49J44","B0FRCSWXD1"],"description":"Titles That a User has Added to Their Wishlist","id":"__WISHLIST","title":"User Wishlist"}];
